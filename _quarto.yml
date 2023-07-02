@@ -1,0 +1,58 @@
+# This file controls the settings for your Quarto template
+
+# Website settings
+website:
+  # Settings for the navigation bar at the top of the website
+  navbar:
+    # Whether or not the navigation bar should stay at the top of the screen
+    pinned: true
+    # Social media links to display on the right-hand side of the navigation bar
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/steven-grassi/
+      - icon: github
+        href: https://github.com/stevefatz95/
+
+  # Remove search bar from the navigation bar
+  search:
+    location: navbar
+
+# Page-footer settings
+# Specify the content for the page footer
+page-footer:
+  left: |
+    <span class="faux-block">&#169; 2023 Stefano Grassi</span>
+
+# Project settings
+# Set the project type to "website" and specify the output directory
+project:
+  type: website
+  output-dir: docs
+
+# Preview settings
+# Specify the options for previewing the Quarto project during development
+preview:
+  port: 22222
+  browser: true
+  watch-inputs: true
+  navigate: true
+
+# Execute settings
+# Set "freeze" to "true" to freeze dependencies
+execute:
+  freeze: false
+
+# Format settings
+# Specify options for formatting the output, such as font size, theme, and table of contents
+format:
+  html:
+    fontsize: 1.1em
+    theme:
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
