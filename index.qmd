@@ -3,7 +3,7 @@ title: "Stefano Grassi"
   
 about:
   template: jolla
-  image: img/my_image.png
+  image: img/my_image.jpg
   links:
     - icon: github
       text: Github
