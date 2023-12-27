@@ -13,6 +13,5 @@ about:
       href: https://www.linkedin.com/in/steven-grassi/
 ---
 
-Data Scientist, Chief Data Officer and Co-Founder of DTECH Digital with an interest in Digital Marketing, Finance and Economics
-
+Chief Data Officer, Data Scientist and Co-Founder at Thrive Digital
 
