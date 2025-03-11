@@ -13,5 +13,5 @@ about:
       href: https://www.linkedin.com/in/steven-grassi/
 ---
 
-Chief Data Officer, Data Scientist and Co-Founder at Thrive Digital
+Data Scientist, Applied Econometrician and Independent Researcher
 
