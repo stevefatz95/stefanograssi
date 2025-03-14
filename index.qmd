@@ -1,17 +1,35 @@
 ---
 title: "Stefano Grassi"
-  
+
 about:
   template: jolla
   image: img/my_image.jpg
   links:
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/stevefatz95/
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/steven-grassi/
----
+    - icon: researchgate
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Stefano-Grassi
 
-Data Scientist, Applied Econometrician and Independent Researcher
+subtitle: "Turning data into knowledge, knowledge into action, and action into impact."
+
+description: |
+  Welcome! I am a Data Scientist, Applied Econometrician and Independent Researcher 
+  based in vibrant **Bangkok, Thailand**. My work focuses on statistical modeling, 
+  time series forecasting, financial modelling, machine learning, natural language 
+  processing, AI and research. 
+  I am passionate about framing and solving real-world problems, 
+  striving to support Thailand’s economic growth.
+
+  🇹🇭 Inspired by Bangkok’s dynamic energy, I blend STEM and Social Sciences to 
+  tackle complex economic, social and business challenges—delivering innovative, 
+  data-driven solutions with real-world impact.
+
+  Let's connect!
+
+---
 
