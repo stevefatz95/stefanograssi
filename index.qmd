@@ -1,0 +1,52 @@
+---
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/stevefatz95/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/steven-grassi/
+    - icon: researchgate
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Stefano-Grassi
+    - icon: twitter
+      href: https://x.com/stevefatz
+---
+
+<!-- Value Proposition (Centered) -->
+<div style="display: flex; justify-content: center; align-items: center; text-align: center; padding: 50px 10px;">
+  <h1 style="font-size: 2.5em; font-weight: bold; max-width: 900px;">
+    Turning Data into Knowledge, Knowledge into Action, and Action into Impact.
+  </h1>
+</div>
+
+<!-- Introduction -->
+<div style="max-width: 900px; margin: auto; padding: 20px 20px; text-align: center;">
+  <p style="font-size: 1.2em;">
+    Welcome! I am Stefano Grassi and I am a **Data Scientist, Applied Econometrician, and Independent Researcher** based in vibrant 
+    <b>Bangkok, Thailand</b>. My work focuses on **statistical modeling, time series forecasting, 
+    financial modeling, machine learning, natural language processing, and AI research**.
+  </p>
+</div>
+
+<!-- Bangkok City Image -->
+<div style="text-align: center; margin: 40px 0;">
+  <img src="img/bangkok.jpg" alt="Bangkok Skyline" style="width:80%; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
+</div>
+
+<!-- Passion & Impact Statement -->
+<div style="max-width: 900px; margin: auto; padding: 20px 20px; text-align: center;">
+  <p style="font-size: 1.2em;">
+    Passionate about **solving real-world problems**, I integrate STEM and social sciences to analyze economic, 
+    social, and business challenges. Through data-driven insights, I strive to support **Thailand’s economic growth** 
+    and broader global innovation.
+  </p>
+</div>
+
+<!-- Let's Connect Section -->
+<div style="display: flex; justify-content: center; align-items: center; text-align: center; padding: 50px 10px;">
+  <h2 style="font-size: 2em; font-weight: bold;">
+    Let's Connect!
+  </h2>
